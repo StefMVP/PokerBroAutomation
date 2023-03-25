@@ -1,6 +1,6 @@
 # Overview
 
-This suite of tools is designed to automate various functions on PokerBros, including the management of rakeback payments, automatic chip deposits triggered through email, and telegram notifications. For more information on this suite of tools or to request a customized solution, please don't hesitate to contact me at sralston@protonmail.com.
+This suite of tools is designed to automate various functions on PokerBros, including the management of rakeback payments, automatic chip deposits triggered through email, and telegram notifications. For more information on this suite of tools or to request a customized solution, please don't hesitate to contact me at gostef.com.
 
 
 
